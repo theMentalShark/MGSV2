@@ -1,0 +1,128 @@
+{
+    "appKeys": {
+        "KEY_CONDITIONS": 0,
+        "KEY_IMPERIAL": 4,
+        "KEY_POWERSAVING": 3,
+        "KEY_TEMPERATURE_C": 1,
+        "KEY_TEMPERATURE_F": 2
+    },
+    "capabilities": [
+        "location",
+        "configurable"
+    ],
+    "companyName": "MentalShark",
+    "longName": "MGSV Watchface",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/MGSV2JUSTTHEDIAMOND.png",
+                "name": "IMAGE_JUST_THE_DIAMOND",
+                "type": "png"
+            },
+            {
+                "file": "images/MGSV2DIAMOND.png",
+                "name": "IMAGE_DIAMOND",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/bgv2.2.png",
+                "name": "IMAGE_BACKGROUND_MGSV",
+                "type": "png"
+            },
+            {
+                "file": "fonts/digital-7.ttf",
+                "name": "FONT_DIGIT_SEVEN_REG_15",
+                "type": "font"
+            },
+            {
+                "file": "fonts/digital-7.ttf",
+                "name": "FONT_DIGIT_SEVEN_REG_25",
+                "type": "font"
+            },
+            {
+                "file": "fonts/digital-7.ttf",
+                "name": "FONT_DIGIT_SEVEN_REG_30",
+                "type": "font"
+            },
+            {
+                "file": "fonts/digital-7 (italic).ttf",
+                "name": "FONT_DIGIT_SEVEN_15",
+                "type": "font"
+            },
+            {
+                "file": "fonts/digital-7 (italic).ttf",
+                "name": "FONT_DIGIT_SEVEN_25",
+                "type": "font"
+            },
+            {
+                "file": "fonts/digital-7 (italic).ttf",
+                "name": "FONT_DIGIT_SEVEN_30",
+                "type": "font"
+            },
+            {
+                "file": "images/SA.png",
+                "name": "IMAGE_SA",
+                "type": "png"
+            },
+            {
+                "file": "images/MO.png",
+                "name": "IMAGE_MO",
+                "type": "png"
+            },
+            {
+                "file": "images/TH.png",
+                "name": "IMAGE_TH",
+                "type": "png"
+            },
+            {
+                "file": "images/SU.png",
+                "name": "IMAGE_SU",
+                "type": "png"
+            },
+            {
+                "file": "images/FR.png",
+                "name": "IMAGE_FR",
+                "type": "png"
+            },
+            {
+                "file": "fonts/DSEG7Classic-Bold.ttf",
+                "name": "FONT_SEVEN_SEG_30",
+                "trackingAdjust": -1,
+                "type": "font"
+            },
+            {
+                "file": "images/icon.png",
+                "menuIcon": true,
+                "name": "IMAGE_ICON",
+                "type": "png"
+            },
+            {
+                "file": "fonts/5x5 (2).ttf",
+                "name": "FONT_SMALL_PIXEL_15",
+                "type": "font"
+            },
+            {
+                "file": "images/WE.png",
+                "name": "IMAGE_WE",
+                "type": "png"
+            },
+            {
+                "file": "images/TU.png",
+                "name": "IMAGE_TU",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "MGSV2",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "fbf9c9be-8dad-41b7-ba64-2a3790ecf365",
+    "versionLabel": "2.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
